@@ -1,0 +1,95 @@
+body {
+
+    text-align: center;
+    background-image: url(https://i.gifer.com/4Cb2.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+
+#title {
+    text-shadow: -5px -5px 1px #ff3300;
+    color: #525252;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    font-weight: 900;
+
+}
+
+
+.button {
+    margin: 20px;
+    font-size: 5rem;
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    transition: width ease-out .47s;
+
+}
+
+
+.button:active {
+
+    width: 160px;
+    box-shadow: 5px 5px 5px 0px #FD5B00;
+}
+
+
+
+
+
+.kick {
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SECQUzbn5dsSfrbzlAmBmefYjUNze64uYA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.snare {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-or-rhquNUsMx9qau54vEfyVTPdLw9bDAw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.hat {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3ges7oDg7yCIG64eRJto1xagzIEOkUbjlYXdBbXoz6WFk8iJlN7gNvJNdqSIaLA54uM&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.tom1 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSXcBefctjd7BWQXq-SjRsQ6E8fhgsc0xHw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.tom2 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp96u_H87m6veW2uoIxubIsZs-gaLHAttKA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.tom3 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcD0whnERGhr23yQ1QLINGmBPDzR5cFv7wQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.tom4 {
+    background-image: url(https://rukminim1.flixcart.com/image/416/416/drum-kit-set/e/u/g/play105-kids-big-drum-music-people-original-imaegzzyfhtnngt9.jpeg?q=70);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+h1 {
+
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
